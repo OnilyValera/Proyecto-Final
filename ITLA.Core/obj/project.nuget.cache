@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0tCOyKNuNJcoQPgN0/cpjjqZBfZQ2jIt1Bzjc+341TY96rYQfUbHdzY74Jzxg/TKqXZ0P9tvBaUpXqpKLwEYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vheysck\\Desktop\\Sep-Dic\\Programacion 2\\Proyecto Final Clean Architecture\\ITLA.Core\\ITLA.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vheysck\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Vheysck\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

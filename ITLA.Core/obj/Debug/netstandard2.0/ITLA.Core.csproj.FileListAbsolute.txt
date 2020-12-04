@@ -1,0 +1,9 @@
+C:\Users\Vheysck\Desktop\Sep-Dic\Programacion 2\Proyecto Final Clean Architecture\ITLA.Core\bin\Debug\netstandard2.0\ITLA.Core.deps.json
+C:\Users\Vheysck\Desktop\Sep-Dic\Programacion 2\Proyecto Final Clean Architecture\ITLA.Core\bin\Debug\netstandard2.0\ITLA.Core.dll
+C:\Users\Vheysck\Desktop\Sep-Dic\Programacion 2\Proyecto Final Clean Architecture\ITLA.Core\bin\Debug\netstandard2.0\ITLA.Core.pdb
+C:\Users\Vheysck\Desktop\Sep-Dic\Programacion 2\Proyecto Final Clean Architecture\ITLA.Core\obj\Debug\netstandard2.0\ITLA.Core.csprojAssemblyReference.cache
+C:\Users\Vheysck\Desktop\Sep-Dic\Programacion 2\Proyecto Final Clean Architecture\ITLA.Core\obj\Debug\netstandard2.0\ITLA.Core.AssemblyInfoInputs.cache
+C:\Users\Vheysck\Desktop\Sep-Dic\Programacion 2\Proyecto Final Clean Architecture\ITLA.Core\obj\Debug\netstandard2.0\ITLA.Core.AssemblyInfo.cs
+C:\Users\Vheysck\Desktop\Sep-Dic\Programacion 2\Proyecto Final Clean Architecture\ITLA.Core\obj\Debug\netstandard2.0\ITLA.Core.csproj.CoreCompileInputs.cache
+C:\Users\Vheysck\Desktop\Sep-Dic\Programacion 2\Proyecto Final Clean Architecture\ITLA.Core\obj\Debug\netstandard2.0\ITLA.Core.dll
+C:\Users\Vheysck\Desktop\Sep-Dic\Programacion 2\Proyecto Final Clean Architecture\ITLA.Core\obj\Debug\netstandard2.0\ITLA.Core.pdb
